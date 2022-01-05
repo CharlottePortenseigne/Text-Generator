@@ -7,6 +7,6 @@ It takes 50 words and predicts the 51 words or up to 50 more words.
 - Tolkenization
 - Dictionary of words
 - Predictive Model, LSTM Model (Keras)
-- Comparaison of the Part-Of-Speach between the original sentence and the predictive sentence. (SpaCy)
+- Comparaison of the Part-Of-Speach of the words between the original sentence and the predictive sentence. (SpaCy)
 - Visualization of the linguistics features of the original sentence and the predictive sentence. (SpaCy)
 - Local Deployment of the predictive sentence. (Flask)
