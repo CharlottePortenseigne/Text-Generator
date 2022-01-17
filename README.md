@@ -18,6 +18,7 @@ It takes 50 words and predicts the 51st words or more.
 
 ### Neural Network library
 - TensorFlow 2
+
 Requires the latest pip
 `pip install --upgrade pip`
 
