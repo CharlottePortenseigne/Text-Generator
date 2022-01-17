@@ -19,10 +19,10 @@ to save the model library
 Neural Network library
 - TensorFlow 2
 Requires the latest pip
-'pip install --upgrade pip'
+`pip install --upgrade pip`
 
 Current stable release for CPU and GPU
-pip install tensorflow
+`pip install tensorflow`
 - Keras 2.7.0
 `pip install keras`
 
